@@ -98,7 +98,7 @@ Nulla varius risus sapien, nec fringilla massa facilisis sed. Pellentesque habit
 
 [Youtube](https://www.youtube.com) - _Enjoy videos and music you love, upload original content, and share it with friends, family, and the world on YouTube._
 
-[GitHub](https://github.com/fefong/markdown_readme#getting-started-with-markdown) - _Project_
+[GitHub](https://github.com/kritanjalijain/Markdown_Cheatsheet#getting-started-with-markdown) - _Project_
 
 		[Google](https://www.google.com) - _Google | Youtube | Gmail | Maps | PlayStore | GoogleDrive_
 
@@ -120,7 +120,7 @@ Nulla varius risus sapien, nec fringilla massa facilisis sed. Pellentesque habit
     
     ![myImage](https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif)
     
-See more [Markdown Extras - Image Align](https://github.com/fefong/markdown_readme/blob/master/markdown-extras.md#image-align)    
+See more [Markdown Extras - Image Align](https://github.com/kritanjalijain/Markdown_Cheatsheet/blob/master/markdown-extras.md#image-align)    
 
 # Style Text
 ### Italic
@@ -153,7 +153,7 @@ public static void main(String[] args) {
 >	}<br>
 >   \`\`\`<br>
 
-See more [Markdown Extras - Style Text](https://github.com/fefong/markdown_readme/blob/master/markdown-extras.md#style-text)
+See more [Markdown Extras - Style Text](https://github.com/kritanjalijain/Markdown_Cheatsheet/blob/master/markdown-extras.md#style-text)
 
 # Email
 <email@email.com>
@@ -210,9 +210,9 @@ See more [Markdown Extras - Style Text](https://github.com/fefong/markdown_readm
 >\|Row 1 Column1| Row 1 Column 2| Row 1 Column 3|<br>
 >\|Row 2 Column1| Row 2 Column 2| Row 2 Column 3|<br>
 
-See more [Markdown Extras - Table](https://github.com/fefong/markdown_readme/blob/master/markdown-extras.md#table)
-* [Rownspan](https://github.com/fefong/markdown_readme/blob/master/markdown-extras.md#table---rowspan)
-* [Colspan](https://github.com/fefong/markdown_readme/blob/master/markdown-extras.md#table---colspan)
+See more [Markdown Extras - Table](https://github.com/kritanjalijain/Markdown_Cheatsheet/blob/master/markdown-extras.md#table)
+* [Rownspan](https://github.com/kritanjalijain/Markdown_Cheatsheet/blob/master/markdown-extras.md#table---rowspan)
+* [Colspan](https://github.com/kritanjalijain/Markdown_Cheatsheet/blob/master/markdown-extras.md#table---colspan)
 
 # Escape Characters
 
@@ -249,7 +249,7 @@ _   underscore
 
 See more: [https://shields.io/](https://shields.io/)
 
-[![GitHub forks](https://img.shields.io/github/forks/fefong/markdown_readme)](https://github.com/fefong/markdown_readme/network)
+[![GitHub forks](https://img.shields.io/github/kritanjalijain/Markdown_Cheatsheet)](https://github.com/kritanjalijain/Markdown_Cheatsheet/network)
 ![Markdown](https://img.shields.io/badge/markdown-project-red)
 
 # Markdown Editor
@@ -258,7 +258,7 @@ See more: [https://shields.io/](https://shields.io/)
 
 # Some links for more in depth learning
 
-:page_facing_up: [Markdown Extras](https://github.com/fefong/markdown_readme/blob/master/markdown-extras.md#markdown---extras)
+:page_facing_up: [Markdown Extras](https://github.com/kritanjalijain/Markdown_Cheatsheet/blob/master/markdown-extras.md#markdown---extras)
 
 :page_facing_up: [Wikipedia - Markdown](https://pt.wikipedia.org/wiki/Markdown)
 
