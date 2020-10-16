@@ -127,6 +127,8 @@ Nulla varius risus sapien, nec fringilla massa facilisis sed. Pellentesque habit
 
 ![](/octocat.png)
 
+	![](/octocat.png)
+
     
 See more [Markdown Extras - Image Align](https://github.com/kritanjalijain/Markdown_Cheatsheet/blob/master/markdown-extras.md#image-align)    
 
