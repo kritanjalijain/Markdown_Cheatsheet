@@ -116,9 +116,17 @@ Nulla varius risus sapien, nec fringilla massa facilisis sed. Pellentesque habit
     > Lebenslangerschicksalsschatz: Lifelong Treasure of Destiny 
 
 # Image | GIF
+
+* From the web
+
 ![myImage](https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif)
     
     ![myImage](https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif)
+ 
+* From the same repo
+
+![](/octacat.png)
+
     
 See more [Markdown Extras - Image Align](https://github.com/kritanjalijain/Markdown_Cheatsheet/blob/master/markdown-extras.md#image-align)    
 
